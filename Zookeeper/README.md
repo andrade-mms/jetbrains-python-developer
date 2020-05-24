@@ -11,3 +11,5 @@ and their status.
 This project is aimed at begginers. It helps to understand
 some syntax basics and learn how to work with variables, data
 storage types such as lists, and while loops.
+
+_More info: https://hyperskill.org/projects/98?goal=391_
