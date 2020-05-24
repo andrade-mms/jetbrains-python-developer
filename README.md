@@ -9,7 +9,7 @@ Projects developed while studying Python Developer track.
 - [Simple Chatty Bot](https://github.com/andrade-mms/jetbrains-python-developer/tree/master/Simple%20Chatty%20Bot)
 - [Zookeeper](https://github.com/andrade-mms/jetbrains-python-developer/tree/master/Zookeeper)
 
-**Completed**: 1/5 projects
+**Completed**: 2/5 projects
 
 ## Medium
 
